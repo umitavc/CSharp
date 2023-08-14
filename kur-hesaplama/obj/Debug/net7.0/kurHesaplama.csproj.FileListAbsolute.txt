@@ -1,0 +1,14 @@
+C:\Users\umit\Desktop\C#Uygulamalari\kurHesaplama\bin\Debug\net7.0\kurHesaplama.exe
+C:\Users\umit\Desktop\C#Uygulamalari\kurHesaplama\bin\Debug\net7.0\kurHesaplama.deps.json
+C:\Users\umit\Desktop\C#Uygulamalari\kurHesaplama\bin\Debug\net7.0\kurHesaplama.runtimeconfig.json
+C:\Users\umit\Desktop\C#Uygulamalari\kurHesaplama\bin\Debug\net7.0\kurHesaplama.dll
+C:\Users\umit\Desktop\C#Uygulamalari\kurHesaplama\bin\Debug\net7.0\kurHesaplama.pdb
+C:\Users\umit\Desktop\C#Uygulamalari\kurHesaplama\obj\Debug\net7.0\kurHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umit\Desktop\C#Uygulamalari\kurHesaplama\obj\Debug\net7.0\kurHesaplama.AssemblyInfoInputs.cache
+C:\Users\umit\Desktop\C#Uygulamalari\kurHesaplama\obj\Debug\net7.0\kurHesaplama.AssemblyInfo.cs
+C:\Users\umit\Desktop\C#Uygulamalari\kurHesaplama\obj\Debug\net7.0\kurHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\umit\Desktop\C#Uygulamalari\kurHesaplama\obj\Debug\net7.0\kurHesaplama.dll
+C:\Users\umit\Desktop\C#Uygulamalari\kurHesaplama\obj\Debug\net7.0\refint\kurHesaplama.dll
+C:\Users\umit\Desktop\C#Uygulamalari\kurHesaplama\obj\Debug\net7.0\kurHesaplama.pdb
+C:\Users\umit\Desktop\C#Uygulamalari\kurHesaplama\obj\Debug\net7.0\kurHesaplama.genruntimeconfig.cache
+C:\Users\umit\Desktop\C#Uygulamalari\kurHesaplama\obj\Debug\net7.0\ref\kurHesaplama.dll

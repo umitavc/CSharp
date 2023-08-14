@@ -1,0 +1,14 @@
+C:\Users\umit\Desktop\C#Uygulamalari\daire-cizme\bin\Debug\net7.0\daire-cizme.exe
+C:\Users\umit\Desktop\C#Uygulamalari\daire-cizme\bin\Debug\net7.0\daire-cizme.deps.json
+C:\Users\umit\Desktop\C#Uygulamalari\daire-cizme\bin\Debug\net7.0\daire-cizme.runtimeconfig.json
+C:\Users\umit\Desktop\C#Uygulamalari\daire-cizme\bin\Debug\net7.0\daire-cizme.dll
+C:\Users\umit\Desktop\C#Uygulamalari\daire-cizme\bin\Debug\net7.0\daire-cizme.pdb
+C:\Users\umit\Desktop\C#Uygulamalari\daire-cizme\obj\Debug\net7.0\daire-cizme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umit\Desktop\C#Uygulamalari\daire-cizme\obj\Debug\net7.0\daire-cizme.AssemblyInfoInputs.cache
+C:\Users\umit\Desktop\C#Uygulamalari\daire-cizme\obj\Debug\net7.0\daire-cizme.AssemblyInfo.cs
+C:\Users\umit\Desktop\C#Uygulamalari\daire-cizme\obj\Debug\net7.0\daire-cizme.csproj.CoreCompileInputs.cache
+C:\Users\umit\Desktop\C#Uygulamalari\daire-cizme\obj\Debug\net7.0\daire-cizme.dll
+C:\Users\umit\Desktop\C#Uygulamalari\daire-cizme\obj\Debug\net7.0\refint\daire-cizme.dll
+C:\Users\umit\Desktop\C#Uygulamalari\daire-cizme\obj\Debug\net7.0\daire-cizme.pdb
+C:\Users\umit\Desktop\C#Uygulamalari\daire-cizme\obj\Debug\net7.0\daire-cizme.genruntimeconfig.cache
+C:\Users\umit\Desktop\C#Uygulamalari\daire-cizme\obj\Debug\net7.0\ref\daire-cizme.dll

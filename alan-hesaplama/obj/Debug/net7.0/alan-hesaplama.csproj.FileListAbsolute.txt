@@ -1,0 +1,14 @@
+C:\Users\umit\Desktop\C#Uygulamalari\alan-hesaplama\bin\Debug\net7.0\alan-hesaplama.exe
+C:\Users\umit\Desktop\C#Uygulamalari\alan-hesaplama\bin\Debug\net7.0\alan-hesaplama.deps.json
+C:\Users\umit\Desktop\C#Uygulamalari\alan-hesaplama\bin\Debug\net7.0\alan-hesaplama.runtimeconfig.json
+C:\Users\umit\Desktop\C#Uygulamalari\alan-hesaplama\bin\Debug\net7.0\alan-hesaplama.dll
+C:\Users\umit\Desktop\C#Uygulamalari\alan-hesaplama\bin\Debug\net7.0\alan-hesaplama.pdb
+C:\Users\umit\Desktop\C#Uygulamalari\alan-hesaplama\obj\Debug\net7.0\alan-hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umit\Desktop\C#Uygulamalari\alan-hesaplama\obj\Debug\net7.0\alan-hesaplama.AssemblyInfoInputs.cache
+C:\Users\umit\Desktop\C#Uygulamalari\alan-hesaplama\obj\Debug\net7.0\alan-hesaplama.AssemblyInfo.cs
+C:\Users\umit\Desktop\C#Uygulamalari\alan-hesaplama\obj\Debug\net7.0\alan-hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\umit\Desktop\C#Uygulamalari\alan-hesaplama\obj\Debug\net7.0\alan-hesaplama.dll
+C:\Users\umit\Desktop\C#Uygulamalari\alan-hesaplama\obj\Debug\net7.0\refint\alan-hesaplama.dll
+C:\Users\umit\Desktop\C#Uygulamalari\alan-hesaplama\obj\Debug\net7.0\alan-hesaplama.pdb
+C:\Users\umit\Desktop\C#Uygulamalari\alan-hesaplama\obj\Debug\net7.0\alan-hesaplama.genruntimeconfig.cache
+C:\Users\umit\Desktop\C#Uygulamalari\alan-hesaplama\obj\Debug\net7.0\ref\alan-hesaplama.dll

@@ -1,0 +1,14 @@
+C:\Users\umit\Desktop\pratikler\hesapMakinesi\bin\Debug\net7.0\hesapMakinesi.exe
+C:\Users\umit\Desktop\pratikler\hesapMakinesi\bin\Debug\net7.0\hesapMakinesi.deps.json
+C:\Users\umit\Desktop\pratikler\hesapMakinesi\bin\Debug\net7.0\hesapMakinesi.runtimeconfig.json
+C:\Users\umit\Desktop\pratikler\hesapMakinesi\bin\Debug\net7.0\hesapMakinesi.dll
+C:\Users\umit\Desktop\pratikler\hesapMakinesi\bin\Debug\net7.0\hesapMakinesi.pdb
+C:\Users\umit\Desktop\pratikler\hesapMakinesi\obj\Debug\net7.0\hesapMakinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umit\Desktop\pratikler\hesapMakinesi\obj\Debug\net7.0\hesapMakinesi.AssemblyInfoInputs.cache
+C:\Users\umit\Desktop\pratikler\hesapMakinesi\obj\Debug\net7.0\hesapMakinesi.AssemblyInfo.cs
+C:\Users\umit\Desktop\pratikler\hesapMakinesi\obj\Debug\net7.0\hesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\umit\Desktop\pratikler\hesapMakinesi\obj\Debug\net7.0\hesapMakinesi.dll
+C:\Users\umit\Desktop\pratikler\hesapMakinesi\obj\Debug\net7.0\refint\hesapMakinesi.dll
+C:\Users\umit\Desktop\pratikler\hesapMakinesi\obj\Debug\net7.0\hesapMakinesi.pdb
+C:\Users\umit\Desktop\pratikler\hesapMakinesi\obj\Debug\net7.0\hesapMakinesi.genruntimeconfig.cache
+C:\Users\umit\Desktop\pratikler\hesapMakinesi\obj\Debug\net7.0\ref\hesapMakinesi.dll

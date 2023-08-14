@@ -1,0 +1,14 @@
+C:\Users\umit\Desktop\C#Uygulamalari\boyKitleIndeksi\bin\Debug\net7.0\boyKitleIndeksi.exe
+C:\Users\umit\Desktop\C#Uygulamalari\boyKitleIndeksi\bin\Debug\net7.0\boyKitleIndeksi.deps.json
+C:\Users\umit\Desktop\C#Uygulamalari\boyKitleIndeksi\bin\Debug\net7.0\boyKitleIndeksi.runtimeconfig.json
+C:\Users\umit\Desktop\C#Uygulamalari\boyKitleIndeksi\bin\Debug\net7.0\boyKitleIndeksi.dll
+C:\Users\umit\Desktop\C#Uygulamalari\boyKitleIndeksi\bin\Debug\net7.0\boyKitleIndeksi.pdb
+C:\Users\umit\Desktop\C#Uygulamalari\boyKitleIndeksi\obj\Debug\net7.0\boyKitleIndeksi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umit\Desktop\C#Uygulamalari\boyKitleIndeksi\obj\Debug\net7.0\boyKitleIndeksi.AssemblyInfoInputs.cache
+C:\Users\umit\Desktop\C#Uygulamalari\boyKitleIndeksi\obj\Debug\net7.0\boyKitleIndeksi.AssemblyInfo.cs
+C:\Users\umit\Desktop\C#Uygulamalari\boyKitleIndeksi\obj\Debug\net7.0\boyKitleIndeksi.csproj.CoreCompileInputs.cache
+C:\Users\umit\Desktop\C#Uygulamalari\boyKitleIndeksi\obj\Debug\net7.0\boyKitleIndeksi.dll
+C:\Users\umit\Desktop\C#Uygulamalari\boyKitleIndeksi\obj\Debug\net7.0\refint\boyKitleIndeksi.dll
+C:\Users\umit\Desktop\C#Uygulamalari\boyKitleIndeksi\obj\Debug\net7.0\boyKitleIndeksi.pdb
+C:\Users\umit\Desktop\C#Uygulamalari\boyKitleIndeksi\obj\Debug\net7.0\boyKitleIndeksi.genruntimeconfig.cache
+C:\Users\umit\Desktop\C#Uygulamalari\boyKitleIndeksi\obj\Debug\net7.0\ref\boyKitleIndeksi.dll

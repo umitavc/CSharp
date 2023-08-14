@@ -1,0 +1,14 @@
+C:\Users\umit\Desktop\C#Uygulamalari\algoritma\bin\Debug\net7.0\algoritma.exe
+C:\Users\umit\Desktop\C#Uygulamalari\algoritma\bin\Debug\net7.0\algoritma.deps.json
+C:\Users\umit\Desktop\C#Uygulamalari\algoritma\bin\Debug\net7.0\algoritma.runtimeconfig.json
+C:\Users\umit\Desktop\C#Uygulamalari\algoritma\bin\Debug\net7.0\algoritma.dll
+C:\Users\umit\Desktop\C#Uygulamalari\algoritma\bin\Debug\net7.0\algoritma.pdb
+C:\Users\umit\Desktop\C#Uygulamalari\algoritma\obj\Debug\net7.0\algoritma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umit\Desktop\C#Uygulamalari\algoritma\obj\Debug\net7.0\algoritma.AssemblyInfoInputs.cache
+C:\Users\umit\Desktop\C#Uygulamalari\algoritma\obj\Debug\net7.0\algoritma.AssemblyInfo.cs
+C:\Users\umit\Desktop\C#Uygulamalari\algoritma\obj\Debug\net7.0\algoritma.csproj.CoreCompileInputs.cache
+C:\Users\umit\Desktop\C#Uygulamalari\algoritma\obj\Debug\net7.0\algoritma.dll
+C:\Users\umit\Desktop\C#Uygulamalari\algoritma\obj\Debug\net7.0\refint\algoritma.dll
+C:\Users\umit\Desktop\C#Uygulamalari\algoritma\obj\Debug\net7.0\algoritma.pdb
+C:\Users\umit\Desktop\C#Uygulamalari\algoritma\obj\Debug\net7.0\algoritma.genruntimeconfig.cache
+C:\Users\umit\Desktop\C#Uygulamalari\algoritma\obj\Debug\net7.0\ref\algoritma.dll

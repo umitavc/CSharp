@@ -1,0 +1,14 @@
+C:\Users\umit\Desktop\C#Uygulamalari\diziEleman Sayisi\bin\Debug\net7.0\diziEleman Sayisi.exe
+C:\Users\umit\Desktop\C#Uygulamalari\diziEleman Sayisi\bin\Debug\net7.0\diziEleman Sayisi.deps.json
+C:\Users\umit\Desktop\C#Uygulamalari\diziEleman Sayisi\bin\Debug\net7.0\diziEleman Sayisi.runtimeconfig.json
+C:\Users\umit\Desktop\C#Uygulamalari\diziEleman Sayisi\bin\Debug\net7.0\diziEleman Sayisi.dll
+C:\Users\umit\Desktop\C#Uygulamalari\diziEleman Sayisi\bin\Debug\net7.0\diziEleman Sayisi.pdb
+C:\Users\umit\Desktop\C#Uygulamalari\diziEleman Sayisi\obj\Debug\net7.0\diziEleman Sayisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umit\Desktop\C#Uygulamalari\diziEleman Sayisi\obj\Debug\net7.0\diziEleman Sayisi.AssemblyInfoInputs.cache
+C:\Users\umit\Desktop\C#Uygulamalari\diziEleman Sayisi\obj\Debug\net7.0\diziEleman Sayisi.AssemblyInfo.cs
+C:\Users\umit\Desktop\C#Uygulamalari\diziEleman Sayisi\obj\Debug\net7.0\diziEleman Sayisi.csproj.CoreCompileInputs.cache
+C:\Users\umit\Desktop\C#Uygulamalari\diziEleman Sayisi\obj\Debug\net7.0\diziEleman Sayisi.dll
+C:\Users\umit\Desktop\C#Uygulamalari\diziEleman Sayisi\obj\Debug\net7.0\refint\diziEleman Sayisi.dll
+C:\Users\umit\Desktop\C#Uygulamalari\diziEleman Sayisi\obj\Debug\net7.0\diziEleman Sayisi.pdb
+C:\Users\umit\Desktop\C#Uygulamalari\diziEleman Sayisi\obj\Debug\net7.0\diziEleman Sayisi.genruntimeconfig.cache
+C:\Users\umit\Desktop\C#Uygulamalari\diziEleman Sayisi\obj\Debug\net7.0\ref\diziEleman Sayisi.dll

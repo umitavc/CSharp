@@ -1,0 +1,14 @@
+C:\Users\umit\Desktop\C#Uygulamalari\karakter-tersten-yazdirma\bin\Debug\net7.0\karakter-tersten-yazdirma.exe
+C:\Users\umit\Desktop\C#Uygulamalari\karakter-tersten-yazdirma\bin\Debug\net7.0\karakter-tersten-yazdirma.deps.json
+C:\Users\umit\Desktop\C#Uygulamalari\karakter-tersten-yazdirma\bin\Debug\net7.0\karakter-tersten-yazdirma.runtimeconfig.json
+C:\Users\umit\Desktop\C#Uygulamalari\karakter-tersten-yazdirma\bin\Debug\net7.0\karakter-tersten-yazdirma.dll
+C:\Users\umit\Desktop\C#Uygulamalari\karakter-tersten-yazdirma\bin\Debug\net7.0\karakter-tersten-yazdirma.pdb
+C:\Users\umit\Desktop\C#Uygulamalari\karakter-tersten-yazdirma\obj\Debug\net7.0\karakter-tersten-yazdirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umit\Desktop\C#Uygulamalari\karakter-tersten-yazdirma\obj\Debug\net7.0\karakter-tersten-yazdirma.AssemblyInfoInputs.cache
+C:\Users\umit\Desktop\C#Uygulamalari\karakter-tersten-yazdirma\obj\Debug\net7.0\karakter-tersten-yazdirma.AssemblyInfo.cs
+C:\Users\umit\Desktop\C#Uygulamalari\karakter-tersten-yazdirma\obj\Debug\net7.0\karakter-tersten-yazdirma.csproj.CoreCompileInputs.cache
+C:\Users\umit\Desktop\C#Uygulamalari\karakter-tersten-yazdirma\obj\Debug\net7.0\karakter-tersten-yazdirma.dll
+C:\Users\umit\Desktop\C#Uygulamalari\karakter-tersten-yazdirma\obj\Debug\net7.0\refint\karakter-tersten-yazdirma.dll
+C:\Users\umit\Desktop\C#Uygulamalari\karakter-tersten-yazdirma\obj\Debug\net7.0\karakter-tersten-yazdirma.pdb
+C:\Users\umit\Desktop\C#Uygulamalari\karakter-tersten-yazdirma\obj\Debug\net7.0\karakter-tersten-yazdirma.genruntimeconfig.cache
+C:\Users\umit\Desktop\C#Uygulamalari\karakter-tersten-yazdirma\obj\Debug\net7.0\ref\karakter-tersten-yazdirma.dll
