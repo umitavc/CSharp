@@ -1,0 +1,14 @@
+C:\Users\umit\Documents\CSharp\sesiz-harf\bin\Debug\net7.0\sesiz-harf.exe
+C:\Users\umit\Documents\CSharp\sesiz-harf\bin\Debug\net7.0\sesiz-harf.deps.json
+C:\Users\umit\Documents\CSharp\sesiz-harf\bin\Debug\net7.0\sesiz-harf.runtimeconfig.json
+C:\Users\umit\Documents\CSharp\sesiz-harf\bin\Debug\net7.0\sesiz-harf.dll
+C:\Users\umit\Documents\CSharp\sesiz-harf\bin\Debug\net7.0\sesiz-harf.pdb
+C:\Users\umit\Documents\CSharp\sesiz-harf\obj\Debug\net7.0\sesiz-harf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umit\Documents\CSharp\sesiz-harf\obj\Debug\net7.0\sesiz-harf.AssemblyInfoInputs.cache
+C:\Users\umit\Documents\CSharp\sesiz-harf\obj\Debug\net7.0\sesiz-harf.AssemblyInfo.cs
+C:\Users\umit\Documents\CSharp\sesiz-harf\obj\Debug\net7.0\sesiz-harf.csproj.CoreCompileInputs.cache
+C:\Users\umit\Documents\CSharp\sesiz-harf\obj\Debug\net7.0\sesiz-harf.dll
+C:\Users\umit\Documents\CSharp\sesiz-harf\obj\Debug\net7.0\refint\sesiz-harf.dll
+C:\Users\umit\Documents\CSharp\sesiz-harf\obj\Debug\net7.0\sesiz-harf.pdb
+C:\Users\umit\Documents\CSharp\sesiz-harf\obj\Debug\net7.0\sesiz-harf.genruntimeconfig.cache
+C:\Users\umit\Documents\CSharp\sesiz-harf\obj\Debug\net7.0\ref\sesiz-harf.dll

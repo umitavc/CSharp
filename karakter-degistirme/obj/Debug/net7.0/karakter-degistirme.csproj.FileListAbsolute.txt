@@ -1,0 +1,14 @@
+C:\Users\umit\Documents\CSharp\karakter-degistirme\bin\Debug\net7.0\karakter-degistirme.exe
+C:\Users\umit\Documents\CSharp\karakter-degistirme\bin\Debug\net7.0\karakter-degistirme.deps.json
+C:\Users\umit\Documents\CSharp\karakter-degistirme\bin\Debug\net7.0\karakter-degistirme.runtimeconfig.json
+C:\Users\umit\Documents\CSharp\karakter-degistirme\bin\Debug\net7.0\karakter-degistirme.dll
+C:\Users\umit\Documents\CSharp\karakter-degistirme\bin\Debug\net7.0\karakter-degistirme.pdb
+C:\Users\umit\Documents\CSharp\karakter-degistirme\obj\Debug\net7.0\karakter-degistirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umit\Documents\CSharp\karakter-degistirme\obj\Debug\net7.0\karakter-degistirme.AssemblyInfoInputs.cache
+C:\Users\umit\Documents\CSharp\karakter-degistirme\obj\Debug\net7.0\karakter-degistirme.AssemblyInfo.cs
+C:\Users\umit\Documents\CSharp\karakter-degistirme\obj\Debug\net7.0\karakter-degistirme.csproj.CoreCompileInputs.cache
+C:\Users\umit\Documents\CSharp\karakter-degistirme\obj\Debug\net7.0\karakter-degistirme.dll
+C:\Users\umit\Documents\CSharp\karakter-degistirme\obj\Debug\net7.0\refint\karakter-degistirme.dll
+C:\Users\umit\Documents\CSharp\karakter-degistirme\obj\Debug\net7.0\karakter-degistirme.pdb
+C:\Users\umit\Documents\CSharp\karakter-degistirme\obj\Debug\net7.0\karakter-degistirme.genruntimeconfig.cache
+C:\Users\umit\Documents\CSharp\karakter-degistirme\obj\Debug\net7.0\ref\karakter-degistirme.dll

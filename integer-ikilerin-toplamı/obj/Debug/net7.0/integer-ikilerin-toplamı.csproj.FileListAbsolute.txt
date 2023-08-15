@@ -1,0 +1,14 @@
+C:\Users\umit\Documents\CSharp\integer-ikilerin-toplamı\bin\Debug\net7.0\integer-ikilerin-toplamı.exe
+C:\Users\umit\Documents\CSharp\integer-ikilerin-toplamı\bin\Debug\net7.0\integer-ikilerin-toplamı.deps.json
+C:\Users\umit\Documents\CSharp\integer-ikilerin-toplamı\bin\Debug\net7.0\integer-ikilerin-toplamı.runtimeconfig.json
+C:\Users\umit\Documents\CSharp\integer-ikilerin-toplamı\bin\Debug\net7.0\integer-ikilerin-toplamı.dll
+C:\Users\umit\Documents\CSharp\integer-ikilerin-toplamı\bin\Debug\net7.0\integer-ikilerin-toplamı.pdb
+C:\Users\umit\Documents\CSharp\integer-ikilerin-toplamı\obj\Debug\net7.0\integer-ikilerin-toplamı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umit\Documents\CSharp\integer-ikilerin-toplamı\obj\Debug\net7.0\integer-ikilerin-toplamı.AssemblyInfoInputs.cache
+C:\Users\umit\Documents\CSharp\integer-ikilerin-toplamı\obj\Debug\net7.0\integer-ikilerin-toplamı.AssemblyInfo.cs
+C:\Users\umit\Documents\CSharp\integer-ikilerin-toplamı\obj\Debug\net7.0\integer-ikilerin-toplamı.csproj.CoreCompileInputs.cache
+C:\Users\umit\Documents\CSharp\integer-ikilerin-toplamı\obj\Debug\net7.0\integer-ikilerin-toplamı.dll
+C:\Users\umit\Documents\CSharp\integer-ikilerin-toplamı\obj\Debug\net7.0\refint\integer-ikilerin-toplamı.dll
+C:\Users\umit\Documents\CSharp\integer-ikilerin-toplamı\obj\Debug\net7.0\integer-ikilerin-toplamı.pdb
+C:\Users\umit\Documents\CSharp\integer-ikilerin-toplamı\obj\Debug\net7.0\integer-ikilerin-toplamı.genruntimeconfig.cache
+C:\Users\umit\Documents\CSharp\integer-ikilerin-toplamı\obj\Debug\net7.0\ref\integer-ikilerin-toplamı.dll

@@ -1,0 +1,14 @@
+C:\Users\umit\Documents\CSharp\mutlak-kare-alma\bin\Debug\net7.0\mutlak-kare-alma.exe
+C:\Users\umit\Documents\CSharp\mutlak-kare-alma\bin\Debug\net7.0\mutlak-kare-alma.deps.json
+C:\Users\umit\Documents\CSharp\mutlak-kare-alma\bin\Debug\net7.0\mutlak-kare-alma.runtimeconfig.json
+C:\Users\umit\Documents\CSharp\mutlak-kare-alma\bin\Debug\net7.0\mutlak-kare-alma.dll
+C:\Users\umit\Documents\CSharp\mutlak-kare-alma\bin\Debug\net7.0\mutlak-kare-alma.pdb
+C:\Users\umit\Documents\CSharp\mutlak-kare-alma\obj\Debug\net7.0\mutlak-kare-alma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umit\Documents\CSharp\mutlak-kare-alma\obj\Debug\net7.0\mutlak-kare-alma.AssemblyInfoInputs.cache
+C:\Users\umit\Documents\CSharp\mutlak-kare-alma\obj\Debug\net7.0\mutlak-kare-alma.AssemblyInfo.cs
+C:\Users\umit\Documents\CSharp\mutlak-kare-alma\obj\Debug\net7.0\mutlak-kare-alma.csproj.CoreCompileInputs.cache
+C:\Users\umit\Documents\CSharp\mutlak-kare-alma\obj\Debug\net7.0\mutlak-kare-alma.dll
+C:\Users\umit\Documents\CSharp\mutlak-kare-alma\obj\Debug\net7.0\refint\mutlak-kare-alma.dll
+C:\Users\umit\Documents\CSharp\mutlak-kare-alma\obj\Debug\net7.0\mutlak-kare-alma.pdb
+C:\Users\umit\Documents\CSharp\mutlak-kare-alma\obj\Debug\net7.0\mutlak-kare-alma.genruntimeconfig.cache
+C:\Users\umit\Documents\CSharp\mutlak-kare-alma\obj\Debug\net7.0\ref\mutlak-kare-alma.dll
