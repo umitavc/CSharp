@@ -1,0 +1,14 @@
+C:\Users\umit\Documents\CSharp\atm-uygulamasi\bin\Debug\net7.0\atm-uygulamasi.exe
+C:\Users\umit\Documents\CSharp\atm-uygulamasi\bin\Debug\net7.0\atm-uygulamasi.deps.json
+C:\Users\umit\Documents\CSharp\atm-uygulamasi\bin\Debug\net7.0\atm-uygulamasi.runtimeconfig.json
+C:\Users\umit\Documents\CSharp\atm-uygulamasi\bin\Debug\net7.0\atm-uygulamasi.dll
+C:\Users\umit\Documents\CSharp\atm-uygulamasi\bin\Debug\net7.0\atm-uygulamasi.pdb
+C:\Users\umit\Documents\CSharp\atm-uygulamasi\obj\Debug\net7.0\atm-uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umit\Documents\CSharp\atm-uygulamasi\obj\Debug\net7.0\atm-uygulamasi.AssemblyInfoInputs.cache
+C:\Users\umit\Documents\CSharp\atm-uygulamasi\obj\Debug\net7.0\atm-uygulamasi.AssemblyInfo.cs
+C:\Users\umit\Documents\CSharp\atm-uygulamasi\obj\Debug\net7.0\atm-uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\umit\Documents\CSharp\atm-uygulamasi\obj\Debug\net7.0\atm-uygulamasi.dll
+C:\Users\umit\Documents\CSharp\atm-uygulamasi\obj\Debug\net7.0\refint\atm-uygulamasi.dll
+C:\Users\umit\Documents\CSharp\atm-uygulamasi\obj\Debug\net7.0\atm-uygulamasi.pdb
+C:\Users\umit\Documents\CSharp\atm-uygulamasi\obj\Debug\net7.0\atm-uygulamasi.genruntimeconfig.cache
+C:\Users\umit\Documents\CSharp\atm-uygulamasi\obj\Debug\net7.0\ref\atm-uygulamasi.dll
